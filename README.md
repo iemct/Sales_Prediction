@@ -29,9 +29,9 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Data Exploration](#exploration)
-  * [Extract Transform Load](#etl)
-  * [Model definition, training, and evaluation](#model)
+  * [Data Exploration](#data-exploration)
+  * [Extract Transform Load](#extract-transform-load)
+  * [Model definition, training, and evaluation](#model-definition,-training,-and-evaluation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a **Data Science** project using [Environmental Sensor Telemetry Data](https://www.kaggle.com/garystafford/environmental-sensor-data-132k).<br>
+This is a **Data Science** project using [C1 Company sales data](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).<br>
 This project consists of *data analysis*, *model definition* and *model training and evaluation* using various data science packages. 
 
 
@@ -91,7 +91,6 @@ It is an iterative process until required performance is obtained.
 
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 This model can be used at situations where cameras and proximity sensors are not available to determine if there is a human being nearby.<br>
@@ -104,14 +103,12 @@ The model uses various other factors such as:
 to determine if there is a human being in proximity.
 
 
-<!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/iemct/Sales_Prediction/issues) for a list of proposed features (and known issues).
 
 
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -124,18 +121,16 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
 ## Contact
 
-Soundar Murugan - [@soundarzozm](https://twitter.com/soundarzozm)<br>
-E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
+IE-Mechatronics - [@iemechatronics](https://www.linkedin.com/in/iemechatronics/)<br>
+E-Mail - [convener.iemechatronics@gmail.com](convener.iemechatronics@gmail.com)
 
 Project Link: [https://github.com/iemct/Sales_Prediction](https://github.com/iemct/Sales_Prediction)
 
