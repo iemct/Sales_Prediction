@@ -65,9 +65,9 @@ This project consists of *data analysis*, *model definition* and *model training
 ## Getting Started
 
 The project consists of three stages:
-1. Data Exploration
-2. Extract Transform Load
-3. Model definition, training, and evaluation
+1. [Data Exploration](#data-exploration)
+2. [Extract Transform Load](#extract-transform-load)
+3. [Model definition, training, and evaluation](#model-definition,-training,-and-evaluation)
 
 The .ipynb (Jupyter Notebook) files contain the three stages of the project.
 
@@ -89,25 +89,18 @@ Model evaluation refers to the process of evaluating the process of the models u
 <br>
 It is an iterative process until required performance is obtained. 
 
-
-
 ## Usage
 
-This model can be used at situations where cameras and proximity sensors are not available to determine if there is a human being nearby.<br>
-The model uses various other factors such as:
-* Temperature
-* Humidity
-* Smoke
-* Light
-
-to determine if there is a human being in proximity.
-
+This project analyses time-series data and predicts future data using machine learning models trained over the same.<br>
+This project approach can be used for the following:
+* Weather forecasting
+* Stock price prediction
+* Sales analysis
+* Business reformation
 
 ## Roadmap
 
 See the [open issues](https://github.com/iemct/Sales_Prediction/issues) for a list of proposed features (and known issues).
-
-
 
 ## Contributing
 
