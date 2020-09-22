@@ -8,7 +8,7 @@
 <br />
 <p align="left">
 
-  <h1 align="left">IoT Sensor Motion Predictor</h1>
+  <h1 align="left">Sales Prediction with time series analysis and forecasting</h1>
 
   <p align="left">
     Analyse and predict the sales of a toy manufacturing company using sophisticated data science methods (time-series analysis and forecasting).
@@ -136,6 +136,7 @@ Project Link: [https://github.com/iemct/Sales_Prediction](https://github.com/iem
 * [Vamsi Vasamsetti](https://www.linkedin.com/in/vamsi-v-927108134) for building the ETL notebook.
 * [Supriti Vijay](https://www.linkedin.com/in/supriti-vijay-21a6321a6/) for building the model implementation notebook.
 * [Rikin Ramachandran]() for working on the ETL notebook.
+* [Soundar Murugan](https://www.linkedin.com/in/soundar-murugan/) for creating the architectural decisions document.
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/iemct/Sales_Prediction.svg?style=flat-square
